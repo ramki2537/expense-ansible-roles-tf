@@ -1,4 +1,4 @@
-MYSQL_HOST: mysql-dev.gonew.io
+MYSQL_HOSTNAME: mysql-dev.gonew.io
 MYSQL_USER: root
 MYSQL_PASSWORD: ExpenseApp1
 APP_LOCATION: /app
