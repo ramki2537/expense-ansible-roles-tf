@@ -1,3 +1,3 @@
-BACKEND_HOST: backend.gonew.io
+BACKEND_HOST: "backend.app-{{ ENVIRONMENT }}.gonew.io"
 APP_LOCAION: /usr/share/nginx/html
 COMPONENT: frontend
